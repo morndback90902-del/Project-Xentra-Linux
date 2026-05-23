@@ -1,4 +1,4 @@
-# Xentra Linux 🐧
+# Xentra Linux
 
 > Lightweight. Modern. Open for Everyone.
 
